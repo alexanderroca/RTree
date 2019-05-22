@@ -1,0 +1,13 @@
+# Intellij #
+############
+*.iml
+*.iws
+<<<<<<< HEAD
+.idea/
+
+# JSONs #
+############
+jsons/
+=======
+.idea/
+>>>>>>> origin/master
